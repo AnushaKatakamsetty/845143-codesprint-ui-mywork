@@ -1,0 +1,9 @@
+My associate id: 845143
+Other team members:
+845165,844989,845032
+Team lead:
+845165
+My Role in team:
+1. Local storage
+My development files:
+GiftCard.js
